@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IDK?
 - 📫 How to reach me : Email me at mubashshir.sikander@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am a really good scratcher
+- ⚡ Fun fact: I am a really good intermediate scratcher
 
 <!---
 SuperCoder4562/SuperCoder4562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
