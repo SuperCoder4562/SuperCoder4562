@@ -1,4 +1,4 @@
-- 👋 Hello Guys!!!
+👋 Hello Guys!!!
 - 👀 I’m interested in working on making an cool stickman game with lots of cool features and power moves and cool graphics
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on IDK?
