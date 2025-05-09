@@ -1,7 +1,7 @@
 👋 Hello Guys!!!
 ----------------------------------------------------------------------------------------------------------------------------
-- 👀 I’m interested in working on making an cool stickman game with lots of cool features and power moves and cool graphics
-- 🌱 I’m currently learning Javascript and HTML
+- 👀 I’m interested in working on making a cool stickman mobile game app
+- 🌱 I’m currently learning Javascript, Html, and Css
 - 💞️ I’m looking to collaborate on IDK?
 - 📫 How to reach me : Email me at mubashshir.sikander@gmail.com
 - 😄 Pronouns: he/him
