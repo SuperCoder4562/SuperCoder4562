@@ -1,5 +1,6 @@
 👋 Hello Guys!!!
 ----------------------------------------------------------------------------------------------------------------------------
+- My name's Muhammad!!!
 - 👀 I’m interested in working on a cool trivia game website where you learn how to code
 - 🌱 I’m currently learning Javascript, HTML, and CSS
 - 💞️ I’m looking to collaborate on IDK?
