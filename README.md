@@ -12,6 +12,7 @@
 SuperCoder4562/SuperCoder4562 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![wakatime](https://wakatime.com/badge/user/46de72cf-d07f-41cf-be3d-1c8342d73850.svg?style=for-the-badge)](https://wakatime.com/@46de72cf-d07f-41cf-be3d-1c8342d73850)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCoder4562&layout=compact&langs_count=10&theme=github_dark&locale=en&hide_border=true)
 
