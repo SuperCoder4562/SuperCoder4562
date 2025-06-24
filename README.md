@@ -1,7 +1,7 @@
 👋 Hello Guys!!!
 ----------------------------------------------------------------------------------------------------------------------------
 
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/SuperCoder4562/SuperCoder4562/refs/heads/output/github-snake-dark.svg)
 
 - My name's Muhammad!!!
 - 👀 I’m interested in working on a cool trivia game website where you learn how to code
