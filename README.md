@@ -4,8 +4,8 @@
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 - My name's Muhammad!!!
-- 👀 I’m interested in working on a cool trivia game website where you learn how to code
-- 🌱 I’m currently learning Javascript, HTML, and CSS
+- 👀 I’m interested in working on a cool trivia game website where you learn how to code and make cool and useful stuff with the Arduino Boards
+- 🌱 I’m currently learning Javascript, HTML, CSS, and C++
 - 💞️ I’m looking to collaborate on IDK?
 - 📫 How to reach me : Email me at mubashshir.sikander@gmail.com
 - 😄 Pronouns: he/him
