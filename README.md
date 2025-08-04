@@ -54,6 +54,9 @@ When I'm not in front of my computer, you'll probably find me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187183381398695947)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashshir.sikander@gmail.com)
+<a href="https://codepen.io/SuperCoder4562">
+    <img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
+  </a>
 <br>
 
 ---
