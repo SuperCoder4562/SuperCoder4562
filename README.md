@@ -49,16 +49,23 @@ When I'm not in front of my computer, you'll probably find me:
 
 ---
 
-## 📫 Let's Connect!
+<p align="center"><b>📫 Let's Connect!</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1187183381398695947)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mubashshir.sikander@gmail.com)
-<a href="https://codepen.io/SuperCoder4562">
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1187183381398695947">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:youraddress@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://codepen.io/yourusername">
     <img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
-<br>
+</p>
 
 ---
 
-*Happy Coding! 🚀*
+<p align="center"><i>Happy Coding! 🚀</i></p>
