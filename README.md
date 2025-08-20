@@ -58,10 +58,10 @@ When I'm not in front of my computer, you'll probably find me:
   <a href="https://discord.com/users/1187183381398695947">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-  <a href="mailto:youraddress@gmail.com">
+  <a href="mailto:mubashshir.sikander@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://codepen.io/yourusername">
+  <a href="https://codepen.io/SuperCoder4562">
     <img src="https://img.shields.io/badge/CodePen-000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
 </p>
