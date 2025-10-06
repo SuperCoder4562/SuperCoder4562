@@ -3,7 +3,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg) 
 
 ## 🚀 About Me
-Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, and **HTML**.<br>
+Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, **HTML**, and tinker with **Arduino boards**.<br>
 When I'm not in front of my computer, you'll probably find me:
 - 🏓 Playing Table Tennis
 - 🏸 Smashing it at Badminton
@@ -33,8 +33,11 @@ When I'm not in front of my computer, you'll probably find me:
 ## 📊 Top Languages & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCoder4562&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCoder4562&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=SuperCoder4562&show_icons=true&theme=tokyonight" alt="SuperCoder4562's GitHub Stats" />
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats by @anuraghazra</a>
 </p>
 
 ---
