@@ -3,7 +3,7 @@
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg) 
 
 ## 🚀 About Me
-Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, **HTML**, and tinker with **Arduino boards**.<br>
+Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, **HTML**, and tinkers with **Arduino boards**.<br>
 When I'm not in front of my computer, you'll probably find me:
 - 🏓 Playing Table Tennis
 - 🏸 Smashing it at Badminton
