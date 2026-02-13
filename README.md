@@ -1,6 +1,6 @@
 # Hi there, I'm SuperCoder4562! 👋
 
-(https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg) 
+![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
 
 ## 🚀 About Me
 Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, **HTML**, and tinkers with **Arduino boards**.<br>
