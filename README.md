@@ -26,7 +26,7 @@ When I'm not in front of my computer, you'll probably find me:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuperCoder4562&theme=tokyonight&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=SuperCoder4562&theme=dark&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -34,8 +34,8 @@ When I'm not in front of my computer, you'll probably find me:
 ## 📊 Top Languages & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCoder4562&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SuperCoder4562&show_icons=true&theme=tokyonight" alt="SuperCoder4562's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperCoder4562&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuperCoder4562&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="SuperCoder4562's GitHub Stats" />
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats by @anuraghazra</a>
