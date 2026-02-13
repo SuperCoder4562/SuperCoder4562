@@ -1,6 +1,6 @@
 # Hi there, I'm SuperCoder4562! 👋
 
-![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg) 
+![GitHub Snake](https://raw.githubusercontent.com/SuperCoder4562/SuperCoder4562/output/github-snake-dark.svg)
 
 ## 🚀 About Me
 Hi! I'm a passionate middle schooler who loves to code with **JavaScript**, **CSS**, **HTML**, and tinkers with **Arduino boards**.<br>
@@ -56,7 +56,7 @@ When I'm not in front of my computer, you'll probably find me:
 <p align="center"><b>📫 Let's Connect!</b></p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://your-portfolio-url.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/1187183381398695947">
